@@ -18,8 +18,8 @@ Family Travel Tracker is a web application designed to visually track the countr
 5. Your app is live and can be running on localhost:3000
 
 ### .env file 
-PG_USER="postgres"
-PG_HOST="localhost"
-PG_DATABASE="world"
-PG_PASSWORD="<Your password here>"
+PG_USER="postgres" \
+PG_HOST="localhost" \
+PG_DATABASE="world" \
+PG_PASSWORD="<Your password here>" \
 PG_PORT="5432"
